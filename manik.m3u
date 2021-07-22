@@ -153,6 +153,8 @@ http://watchindia.net:8880/live/33253/72963/2102.ts
 http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=SS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English", Discovery Investigation
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8oYjMWg.png" group-title"English",Rush Channel
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36987
 
 
 
@@ -190,8 +192,7 @@ http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 http://185.180.15.17:2200/EX/beIN_Sports_13_HD-ar/tracks-v1a1/mono.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD
 http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=RK
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Sports",SUPERSPORT ACTION HD
-http://212.224.98.208:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=RK
+
 
 
 

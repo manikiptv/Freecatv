@@ -186,12 +186,8 @@ http://180.210.191.2/hls/stream34.m3u8
 # http://tv.pmcon.net/hls/stream34.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Sports", WWE NETWORK
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Sports",SUPERSPORT MAXIMO 1
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6585
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports English
 http://185.180.15.17:2200/EX/beIN_Sports_13_HD-ar/tracks-v1a1/mono.m3u8?token=RK
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Sports",SUPERSPORT CRICKET HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6583
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD
 http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=RK
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/SuperSport_HD.png" group-title="Sports",SUPERSPORT ACTION HD

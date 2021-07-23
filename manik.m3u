@@ -76,6 +76,8 @@ http://tv.pmcon.net/hls/stream37.m3u8
 http://sonyiptv.net:8080/live/prasad124/00000/147747.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
 http://tv.pmcon.net/hls/stream28.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
+http://212.102.60.40:2200/EX/Colors-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
 http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD

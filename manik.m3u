@@ -201,10 +201,8 @@ http://212.224.98.205:2200/EX/bein11hd-ar/index.m3u8?token=rk
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 4
 http://212.224.98.205:2200/EX/bein1hd-ar/index.m3u8?token=rk
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 5
-http://212.224.98.205:2200/EX/bein5hd-ar/index.m3u8?token=rk
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 6
 http://212.224.98.205:2200/EX/bein6hd-ar/index.m3u8?token=rk
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 7
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 6
 http://212.224.98.205:2200/EX/bein7hd-ar/index.m3u8?token=rk
 
 

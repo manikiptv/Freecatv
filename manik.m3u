@@ -8,6 +8,7 @@ http://103.106.2.149:13456/btv_world.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
 http://103.157.237.18:8000/play/630
+# http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
 http://103.157.237.18:8000/play/122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
@@ -167,8 +168,10 @@ https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
 http://199.66.95.242:80/3/3096/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
 http://103.109.56.116/live/skyfeed1017/index.m3u8
+# http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2
 http://103.109.56.116/live/skyfeed1018/index.m3u8
+# http://199.66.95.242:80/3/3094/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
 http://tv.pmcon.net/hls/stream15.m3u8
 # http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=rk
@@ -181,6 +184,8 @@ http://tv.pmcon.net/hls/stream12.m3u8
 http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+# http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk
+# http://185.180.15.13:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
@@ -188,6 +193,7 @@ http://180.210.191.2/hls/stream34.m3u8
 # http://tv.pmcon.net/hls/stream34.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Sports", WWE NETWORK
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+# http://212.224.98.208:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports English
 http://185.180.15.17:2200/EX/beIN_Sports_13_HD-ar/tracks-v1a1/mono.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD
@@ -195,6 +201,7 @@ http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=RK
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 1
 http://212.224.98.209:2200/AFR-EX/SuperSport_Grandstand_FHD-dstv/tracks-v1a1/mono.m3u8?token=RK
 # http://212.224.98.207:2200/NL/teledeporte-esp/index.m3u8?token=rk🇪🇸
+# http://212.224.98.204:2200/AFR-EX/SuperSport_Variety_3_FHD_ZA-dstv/index.m3u8?token=RK
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 2
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8
 # http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8?rk🇪🇸

@@ -201,19 +201,13 @@ http://185.180.15.17:2200/EX/beIN_Sports_13_HD-ar/tracks-v1a1/mono.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD
 http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=RK
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 1
-http://212.224.98.209:2200/AFR-EX/SuperSport_Grandstand_FHD-dstv/tracks-v1a1/mono.m3u8?token=RK
-# http://212.224.98.207:2200/NL/teledeporte-esp/index.m3u8?token=rk🇪🇸
-# http://212.224.98.204:2200/AFR-EX/SuperSport_Variety_3_FHD_ZA-dstv/index.m3u8?token=RK
+http://212.224.98.205:2200/AFR-EX/SuperSport_Variety_1_FHD-dstv/tracks-v1a1/mono.m3u8?token=RK
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 2
-http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8
-# http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8?rk🇪🇸
+http://185.180.15.14:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/index.m3u8?token=RK
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 3
-http://212.224.98.205:2200/EX/bein11hd-ar/index.m3u8?token=rk
-# http://212.224.98.207:2200/NL/eurosport2-esp/index.m3u8?token=rk
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 4
-http://212.224.98.205:2200/EX/bein1hd-ar/index.m3u8?token=rk
+http://212.224.98.204:2200/AFR-EX/SuperSport_Variety_3_FHD_ZA-dstv/index.m3u8?token=RK
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 5
-http://212.224.98.205:2200/EX/bein6hd-ar/index.m3u8?token=rk
+http://212.224.98.210:2200/AFR-EX/SuperSport_Variety_4_FHD-dstv/tracks-v1a1/mono.m3u8?token=RK
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 6
 http://212.224.98.205:2200/EX/bein7hd-ar/index.m3u8?token=rk
 

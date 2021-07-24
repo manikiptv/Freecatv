@@ -164,8 +164,6 @@ http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36987
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
 http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/10169
-#EXTINF:-1 tvg-logo="https://imgur.com/5VjjwUS.png" group-title="Sports",Bick Sports
-https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 http://199.66.95.242:80/3/3096/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD

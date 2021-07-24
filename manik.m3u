@@ -63,7 +63,7 @@ http://tv.pmcon.net/hls/stream31.m3u8
 http://tv.pmcon.net/hls/stream27.m3u8
 # http://212.224.98.204:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
-http://tv.aliflailabd.com:8989/sony-aath/index.m3u8
+http://pn.tvott.info:80/307200113544/307200113544/83798
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla", Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema

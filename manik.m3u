@@ -173,7 +173,6 @@ http://103.109.56.116/live/skyfeed1017/index.m3u8
 # http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2
 http://103.109.56.116/live/skyfeed1018/index.m3u8
-# http://199.66.95.242:80/3/3094/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
 http://185.180.15.13:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD

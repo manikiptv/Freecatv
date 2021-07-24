@@ -168,12 +168,12 @@ http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36987
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
 http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/10169
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-http://199.66.95.242:80/3/3096/index.m3u8?token=test
+http://185.180.15.13:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token==RED
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://103.109.56.116/live/skyfeed1017/index.m3u8
+http://185.180.15.14:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
 # http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2
-http://103.109.56.116/live/skyfeed1018/index.m3u8
+http://185.180.15.13:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
 http://185.180.15.13:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD

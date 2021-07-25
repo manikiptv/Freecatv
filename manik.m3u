@@ -10,7 +10,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/playlist
 http://103.157.237.18:8000/play/630
 # http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
-http://103.157.237.18:8000/play/122
+https://cdn.cinemabaaz.live/j-GTV/tracks-v1a1/mono.m3u8
+# http://103.157.237.18:8000/play/122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv

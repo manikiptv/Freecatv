@@ -7,8 +7,7 @@ http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
 http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
-http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
-# http://103.157.237.18:8000/play/630
+http://103.157.237.18:8000/play/630
 # http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
 http://103.157.237.18:8000/play/122
@@ -76,8 +75,6 @@ http://tv.pmcon.net/hls/stream37.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-http://stream.dhakaflix.com:8081/SonyTVHD/tracks-v1a1/playlist.m3u8
-# http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 # http://sonyiptv.net:8080/live/prasad124/00000/147747.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
 http://tv.pmcon.net/hls/stream28.m3u8

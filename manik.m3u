@@ -133,11 +133,11 @@ http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN
-http://tv.pmcon.net/hls/stream2.m3u8
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
-http://tv.pmcon.net/hls/stream1.m3u8
+http://212.224.98.196:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO

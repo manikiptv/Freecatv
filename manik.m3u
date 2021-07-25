@@ -60,8 +60,7 @@ http://tv.pmcon.net/hls/stream26.m3u8
 http://tv.pmcon.net/hls/stream30.m3u8
 # https://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-http://tv.pmcon.net/hls/stream31.m3u8
-# http://185.180.15.17:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=RK
+http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
 http://tv.pmcon.net/hls/stream27.m3u8
 # http://212.224.98.204:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=RK

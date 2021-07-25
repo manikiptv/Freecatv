@@ -166,7 +166,7 @@ http://185.180.15.13:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
 http://185.180.15.13:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-http://tv.pmcon.net/hls/stream15.m3u8
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=rk
 # http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=RK

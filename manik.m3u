@@ -120,8 +120,6 @@ https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="English", History Channel
 http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3e7rpf6.png" group-title="English", Discovery Realtime
-https://wyjs.tk/index.php/https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Hindi
 http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Bangla

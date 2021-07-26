@@ -189,16 +189,6 @@ http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD
 http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=RK
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 1
-http://212.224.98.205:2200/AFR-EX/SuperSport_Variety_1_FHD-dstv/tracks-v1a1/mono.m3u8?token=RK
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 2
-http://185.180.15.14:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/index.m3u8?token=RK
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 3
-http://212.224.98.204:2200/AFR-EX/SuperSport_Variety_3_FHD_ZA-dstv/index.m3u8?token=RK
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 5
-http://212.224.98.210:2200/AFR-EX/SuperSport_Variety_4_FHD-dstv/tracks-v1a1/mono.m3u8?token=RK
-#EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 6
-http://212.224.98.205:2200/EX/bein7hd-ar/index.m3u8?token=rk
 
 
 

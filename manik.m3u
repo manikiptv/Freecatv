@@ -186,7 +186,7 @@ http://180.210.191.2/hls/stream34.m3u8
 http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 # http://212.224.98.208:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports English
-http://185.180.15.17:2200/EX/beIN_Sports_13_HD-ar/tracks-v1a1/mono.m3u8?token=RK
+http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD
 http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=RK
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MitndTm.png" group-title="Sports", Olympic 1

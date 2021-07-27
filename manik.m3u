@@ -164,9 +164,9 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-http://103.157.237.18:8000/play/601
+http://180.210.191.2/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
-http://103.157.237.18:8000/play/603
+http://180.210.191.2/hls/stream16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD

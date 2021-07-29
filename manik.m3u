@@ -184,8 +184,8 @@ http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 # http://212.224.98.208:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports English
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow HD
-http://103.109.56.116/live/skyfeed1022/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/t9s3LMR.png" group-title="Sports", Super Sport Africa
+http://rv.therevenge.co:80/live/307200114044/307200114044/86785.m3u8
 
 
 

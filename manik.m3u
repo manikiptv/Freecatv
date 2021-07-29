@@ -7,10 +7,9 @@ http://103.43.148.202:1931/iptv/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
 http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
-https://cdn.cinemabaaz.live/j-TSports/tracks-v1a1/mono.m3u8
+http://pn.tvott.info:80/live/307271135111/307271135111/83850.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
-https://cdn.cinemabaaz.live/j-GTV/tracks-v1a1/mono.m3u8
-# http://103.157.237.18:8000/play/122
+http://rv.bleutv.net:80/live/477816014111154/477816014111154/83819.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
 http://tv.pmcon.net/hls/stream20.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv

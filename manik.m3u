@@ -147,7 +147,7 @@ http://103.157.237.18:8000/play/707
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English", Discovery Investigation
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
-https://sonar.sinclair.wurl.com/manifest/3000.m3u8
+http://46.34.209.242:80/btv/SWM/RenTV/RenTV.m3u8
 
 
 

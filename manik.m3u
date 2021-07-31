@@ -11,11 +11,11 @@ http://pn.tvott.info:80/live/307271135111/307271135111/83850.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
 http://rv.bleutv.net:80/live/477816014111154/477816014111154/83819.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
-http://tv.pmcon.net/hls/stream20.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
+http://103.205.133.19/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
-https://cdn.cinemabaaz.live/NTV/tracks-v1a1/mono.m3u8
+http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla", Bangla TV
 http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
@@ -23,7 +23,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
-http://tv.pmcon.net/hls/stream22.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 HD
 http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
@@ -74,7 +74,7 @@ http://tv.pmcon.net/hls/stream37.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-http://sonyiptv.net:8080/live/prasad124/00000/147747.m3u8 ; http://103.157.237.18:8000/play/333
+http://103.205.133.19/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD

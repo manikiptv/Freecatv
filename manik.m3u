@@ -47,7 +47,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla", News 24 HD
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/37131
+http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
 http://185.180.221.194:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV

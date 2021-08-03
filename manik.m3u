@@ -187,6 +187,25 @@ http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t9s3LMR.png" group-title="Sports", Super Sport Africa
 http://rv.therevenge.co:80/live/307200114044/307200114044/86785.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Sports",beIN Sports 1
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Sports",beIN Sports 1
+http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Sports",beIN Sports 2
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Sports",beIN Sports 3
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Sports",beIN Sports 4
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Sports",beIN Sports 4 SD
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Sports",beIN Sports 5
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Sports",beIN Sports 6
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+
+
+
 
 
 

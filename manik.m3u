@@ -155,7 +155,7 @@ http://176.222.190.149:80/btv/SWM/RenTV/RenTV.m3u8
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
 http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
-#EXTINF:-1tvg-logo"https://imgur.com/Mv9HCte.png" group-title="Sports",Bick Sports
+#EXTINF:-1tvg-logo="https://imgur.com/Mv9HCte.png" group-title="Sports",Bick Sports
 http://93.157.62.180:80/SK1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 http://103.109.56.116/live/skyfeed1025/index.m3u8

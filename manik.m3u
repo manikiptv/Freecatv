@@ -143,6 +143,8 @@ http://103.81.104.118/hls/stream2.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
 http://103.81.104.118/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2xNwdMi.png" group-title="English", FX HD
+http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
@@ -187,6 +189,8 @@ http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
 http://103.81.104.118/hls/stream34.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
+https://aslive.club/cn/sports/ptv/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Sports", WWE NETWORK
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 # http://212.224.98.208:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=RK

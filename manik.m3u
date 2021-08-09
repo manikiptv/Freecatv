@@ -188,15 +188,15 @@ http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
 http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
-https://aslive.club/cn/sports/ptv/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Sports", WWE NETWORK
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="Sports",TrueSport HD
+http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 # http://212.224.98.208:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports English
 http://teslaiptv.com:8080/live/hannaxhanna/es576457/80038.m3u8
 # http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t9s3LMR.png" group-title="Sports", Super Sport Africa
-http://rv.therevenge.co:80/live/307200114044/307200114044/86785.m3u8
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Sports",beIN Sports 1
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Sports",beIN Sports 1

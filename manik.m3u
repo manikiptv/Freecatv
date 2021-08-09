@@ -190,8 +190,7 @@ http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="Sports",TrueSport HD
-http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
-# http://212.224.98.208:2200/AFR-EX/SuperSport_WWE_FHD-dstv/index.m3u8?token=RK
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports English
 http://teslaiptv.com:8080/live/hannaxhanna/es576457/80038.m3u8
 # http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8

@@ -223,14 +223,6 @@ http://31.220.41.88:8081/live/fr-beinmax5.stream/playlist.m3u8
 http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports",beIN Sports MAX 7
 http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
-EXTINF:-1 group-title="Sports",BT Sport 1
-http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports",BT Sport 3
-http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports",DE Sky Sport 1
-http://31.220.41.88:8081/live/de-skysport1.stream/playlist.m3u8
-#EXTIN:-1 group-title="Sports",Sky Sports
-http://31.220.41.88:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports",FOX
 http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports",RMC Sport 1

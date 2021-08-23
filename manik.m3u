@@ -194,6 +194,48 @@ http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" group-title="Sports",Premier Football HD 4
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 1 HD
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 2 HD
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports", BEIN SPORTS 3 HD
+http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 4 HD
+http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 5 HD
+http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 6 HD
+http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 7 HD
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="Sports" ,Bein Sports English HD1 
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="Sports" ,Bein Sports English HD2
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/futbol_ua_1.png" group-title="Sports",Futbol 1
+https://95-213-224-181.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/futbol_ua_2.png" group-title="Sports",Futbol 2
+https://95-213-224-181.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-1-evraziya-ie.png" group-title="Sports",SETANTA 1
+https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-2-evraziya-ie.png" group-title="Sports",SETANTA 2
+https://95-213-224-181.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia_plus.png" group-title="Sports",SETANTA +
+https://95-213-224-181.livesports24.online/setantaplusukr.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv1.png" group-title="DP@SPORT", (DianPhotograph) SPORT TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv2.png" group-title="Sports",SPORT TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv3.png" group-title="Sports",SPORT TV 3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv4.png" group-title="Sports",SPORT TV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="Sports",SPORT TV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+
+
 
 
 

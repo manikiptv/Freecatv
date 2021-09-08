@@ -70,7 +70,7 @@ http://103.81.104.118/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
 http://103.81.104.118/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
-http://jupiter.bdcabletv.com/SonyAath/video.m3u8
+http://103.81.104.118/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla", Sun Bangla
 http://103.81.104.118/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
@@ -94,7 +94,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://103.81.104.118/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.81.104.118/hls/sonymax.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
@@ -106,7 +106,7 @@ http://watchindia.net:8880/live/33253/72963/821.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
 http://watchindia.net:8880/live/33253/72963/822.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-http://watchindia.net:8880/live/33253/72963/787.m3u8
+http://103.81.104.118/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
@@ -141,7 +141,7 @@ http://103.81.104.118/hls/axn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
-https://is.gd/ObFrpt
+http://103.81.104.118/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2xNwdMi.png" group-title="English", FX HD
 http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD

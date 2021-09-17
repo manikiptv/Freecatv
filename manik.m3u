@@ -183,13 +183,13 @@ http://jupiter.bdcabletv.com/ENC-7/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
 https://cdn.nowhdtime.com.bd/SonyTen3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-http://103.81.104.118/hls/stersports1hd.m3u8
+http://212.102.60.40:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
-http://103.81.104.118/hls/starsports2.m3u8
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
-http://103.81.104.118/hls/Star_Sport_Select1HD.m3u8
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
-http://103.109.56.116/live/skyfeed1024/index.m3u8
+http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket
 http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football

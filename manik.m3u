@@ -173,7 +173,7 @@ http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
-
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 https://cdn.nowhdtime.com.bd/SonySix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD

@@ -220,6 +220,40 @@ https://95-213-224-181.livesports24.online/ooomatch.m3u8
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-2-evraziya-ie.png" group-title="Sports",SETANTA 2
 https://95-213-224-181.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1 group-title="USA",beIN Sport English 1
+http://31.220.41.88:8081/live/arena4.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sport English 2
+http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports 1
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports 1
+http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports 2
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports 3
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports 4
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports 4 SD
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports 5
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports 5 SD
+http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports 6
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports MAX 4
+http://31.220.41.88:8081/live/fr-beinmax4.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports MAX 5
+http://31.220.41.88:8081/live/fr-beinmax5.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports MAX 6
+http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",beIN Sports MAX 7
+http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",BT Sport 1
+http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",BT Sport 3
+http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
 
 
 

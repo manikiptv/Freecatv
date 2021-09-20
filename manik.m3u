@@ -8,7 +8,7 @@ http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
 https://cdn.nowhdtime.com.bd/ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
-http://103.81.104.118/hls/channeli.m3u8
+https://rhridoy136.shortcm.li/channeli.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
@@ -18,27 +18,27 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
-http://103.81.104.118/hls/banglavision.m3u8
+https://rhridoy136.shortcm.li/banglavisiontv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla", Desh TV
 http://103.205.133.18/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla", My TV BD
 http://103.205.133.18/hls/mytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla", ATN News
-http://103.205.133.18/hls/atnnews.m3u8
+https://rhridoy136.shortcm.li/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangla", Mohona TV HD
 https://cdn.nowhdtime.com.bd/MohonaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla", Bijoy TV
-https://cdn.nowhdtime.com.bd/j-BijoyTV/tracks-v1a1/mono.m3u8
+https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
-http://103.81.104.118/hls/somoy.m3u8
+https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla", Independent TV
 http://137.59.155.77:8088/hls/02IndependentTv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
 http://103.81.104.118/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 HD
-http://103.81.104.118/hls/channel9.m3u8
+https://piratesiptv.shortcm.li/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
-https://cdn.nowhdtime.com.bd/j-Channel24/tracks-v1a1/mono.m3u8
+https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
 http://137.59.155.77:8088/hls/01gazitv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
@@ -54,7 +54,7 @@ http://103.205.133.18/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
 http://103.81.104.118/hls/dipto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
-https://cdn.nowhdtime.com.bd/DBCNews/tracks-v1a1/mono.m3u8
+http://103.205.133.19/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla", News 24 HD
 http://103.205.133.18/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla", Bangla TV

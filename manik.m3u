@@ -187,7 +187,7 @@ http://www.luckonline.eu:8080/live/xQQPlubzY4/TqhGGxr6nl/1065.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
 http://jupiter.bdcabletv.com/ENC-4/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RK
+http://93.152.174.144:4000/play/ss3in/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
 http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket

@@ -6,15 +6,15 @@ http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla", BTV World
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
-http://103.205.133.18/hls/atnbangla.m3u8
+http://103.205.133.40/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
-http://103.205.133.18/hls/ichannel.m3u8
+http://103.205.133.40/hls/ichannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
-http://indo51.gcdn.co/BANGLA-BD-NTV/tracks-v1a1/mono.m3u8
+http://103.205.133.40/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
-http://103.205.133.18/hls/rtv.m3u8
+http://103.205.133.40/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
@@ -46,23 +46,23 @@ http://103.205.133.48/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla", Asian TV 
 http://103.205.133.18/hls/asiantv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/McQwv50.png" group-title="Bangla", SATV
-http://103.205.133.48/hls/satv.m3u8
+http://103.205.133.40/hls/satv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla
-http://103.205.133.48/hls/gaanbangla.m3u8
+http://103.205.133.40/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla", Jamuna TV
 http://103.205.133.18/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
 http://103.205.133.18/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
-http://103.205.133.19/hls/dbcnews.m3u8
+http://103.205.133.40/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla", News 24 HD
 http://103.205.133.18/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla", Bangla TV
-http://103.205.133.18/hls/banglatv.m3u8
+http://103.205.133.40/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangla", Nagorik TV 
-http://103.205.133.48/hls/nagorik.m3u8
+http://103.205.133.40/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla", Ananda TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
@@ -76,11 +76,11 @@ http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
 http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
+http://103.205.133.40/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies HD
 http://starnaya.com:8080/66PxjGmXUfFx/eRABXtZZKE/12538
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
-http://103.205.133.18/hls/sony8.m3u8
+http://103.205.133.40/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla", Sun Bangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
@@ -92,7 +92,7 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.205.133.40/hls/chs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
 http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
@@ -249,6 +249,6 @@ http://212.224.98.196:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+http://103.205.133.40/hls/sangeetbangla.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",Masti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8

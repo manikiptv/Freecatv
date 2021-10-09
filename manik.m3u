@@ -92,7 +92,7 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-http://103.205.133.40/hls/chs.m3u8
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
 http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
@@ -118,7 +118,7 @@ http://indo51.gcdn.co/hindi-ZEEBOLLYWOOD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
-http://148.72.155.84/ENC-14/index.m3u8
+http://51.81.84.166:8880/live/54739/54739/1072.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
 http://103.205.133.48/hls/andtv.m3u8
 
@@ -198,20 +198,6 @@ http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 1 HD
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 2 HD
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports", BEIN SPORTS 3 HD
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 4 HD
-http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 5 HD
-http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 6 HD
-http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports",BEIN SPORTS 7 HD
-http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 
 
 

@@ -156,47 +156,47 @@ https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
-http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",Movies Now HD
-http://watchindia.net:8880/live/33253/72963/2102.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English", Discovery Investigation
-http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
+https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
-https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
+https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dJKSceQ.png" group-title"English",Request Movies Channel
-http://www.deadlyblogger.com/NewRelease/starwarsv.mp4
+
 
 
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
-http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://jupiter.bdcabletv.com/ENC-19/video.m3u8
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2
-http://jupiter.bdcabletv.com/ENC-7/video.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-http://93.152.174.144:4000/play/ss1in/index.m3u8
+https://236s.short.gy/DreamTV/ChSP1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
-http://93.152.174.144:4000/play/ss2in/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
-http://93.152.174.144:4000/play/ss3in/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
-http://jupiter.bdcabletv.com/select_2/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket
-http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
-http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
-http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
+https://236s.short.gy/DreamTV/PTV.m3u8
 
 
 
@@ -204,25 +204,25 @@ http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network English
-http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2456.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay Bangla
-http://103.81.104.118/hls/sonyyay.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon", Discovery Kids Hindi
-http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Cartoon", Boomerang
-http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", Sonic Nickeloden
-http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo
-http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick
-http://jupiter.bdcabletv.com/ENC-15/video.m3u8
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon", Nick Junior Hindi
-http://103.153.39.34:8000/play/a04r/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Hungama Tv 
-http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
+
 
 
 
@@ -230,10 +230,10 @@ http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music", MTV HD
-http://212.224.98.196:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RK
+https://236s.short.gy/DreamTV/MtvHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
-http://103.205.133.40/hls/sangeetbangla.m3u8
+https://236s.short.gy/DreamTV/SangeetBn.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",Masti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8

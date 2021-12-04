@@ -209,6 +209,35 @@ http://208.86.19.21:80/711.stream/index.m3u8
 http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://208.86.19.21:80/610.stream/index.m3u8
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
+#http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+http://58.65.194.14:1935/live/trace%20sports%20HD.stream/playlist.m3u8
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2  Premium
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/156
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3  Premium
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
+#http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/158
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
+http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/3058
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
+#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6870.m3u8
+http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
+http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Extra
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/164
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports-1 [English]
+#http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/2243
+http://58.65.194.14:1935/live/ZooMooHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports-2 [English]
+http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/2242
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-3 [English]
+http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/3906
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-3 [English]
 
 
 

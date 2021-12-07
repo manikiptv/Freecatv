@@ -208,7 +208,7 @@ http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
 http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
-http://208.86.19.21:80/610.stream/index.m3u8
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
 #http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 http://58.65.194.14:1935/live/trace%20sports%20HD.stream/playlist.m3u8

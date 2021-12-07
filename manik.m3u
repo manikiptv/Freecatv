@@ -244,7 +244,7 @@ http://58.65.194.14:1935/live/ZooMooHD.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network English
-http://103.49.69.246:8000/play/a02f/index.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay Bangla
 http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
@@ -256,9 +256,9 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=115&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", Sonic Nickeloden
 http://jo123.biz/jweb/m3u8.php?c=sonic_Hindi&=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo
-http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=600&e=junk.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick
-http://103.49.69.246:8000/play/a02i/index.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon", Nick Junior Hindi
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1292
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Hungama Tv 

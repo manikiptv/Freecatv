@@ -215,14 +215,14 @@ http://58.65.194.14:1935/live/trace%20sports%20HD.stream/playlist.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2  Premium
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/156
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3  Premium
-
+http://smartmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/79309.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/158
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
-
+http://23.88.39.74:80/live/6161655001/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
-
+http://23.88.39.74:80/live/6161949870/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5

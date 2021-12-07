@@ -224,9 +224,9 @@ http://23.88.39.74:80/live/6161655001/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
 http://23.88.39.74:80/live/6161949870/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
-
+http://23.88.39.74:80/live/6161949870/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
-
+http://208.86.19.21:80/731.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Extra
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/164
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports-1 [English]

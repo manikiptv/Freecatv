@@ -182,21 +182,19 @@ https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
 http://208.86.19.21:80/731.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-http://103.131.212.138:8000/play/a028/index.m3u8
-#http://208.86.19.21:80/740.stream/index.m3u8
+http://208.86.19.21:80/740.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://103.49.69.246:8000/play/a01k/index.m3u8
+http://208.86.19.21:80/726.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony ten 2
-http://103.49.69.246:8000/play/a022/index.m3u8
+http://208.86.19.21:80/712.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
-http://103.49.69.246:8000/play/a01p/index.m3u8
+http://208.86.19.21:80/712.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
-http://103.49.69.246:8000/play/a020/index.m3u8
+http://208.86.19.21:80/710.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
-http://103.49.69.246:8000/play/a021/index.m3u8
-#http://208.86.19.21:80/732.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+http://208.86.19.21:80/736.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
 http://208.86.19.21:80/737.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket

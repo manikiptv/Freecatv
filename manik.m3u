@@ -40,8 +40,7 @@ http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
 https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/185
-#http://103.78.255.178:8080/gtv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
 http://208.86.19.21:80/604.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla", Asian TV 
@@ -67,8 +66,7 @@ https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla", Ananda TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
-http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
-#http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",Peace Tv Bangla
 http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD

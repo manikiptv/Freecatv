@@ -178,8 +178,9 @@ https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
-http://208.86.19.21:80/610.stream/index.m3u8
-http://jo123.biz/jweb/m3u8.php?c=Jio_Football_Bangali_HD&q=1200&e=@LiveTvLinksForFree.m3u8
+http://77.247.109.101/hls/A1.m3u8
+#http://208.86.19.21:80/610.stream/index.m3u8
+#http://jo123.biz/jweb/m3u8.php?c=Jio_Football_Bangali_HD&q=1200&e=@LiveTvLinksForFree.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 http://208.86.19.21:80/740.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD

@@ -83,7 +83,8 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla",43.Sun Bangla
 http://208.86.19.21:80/903.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla",44.Zee Bangla Cinema
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
+http://195.201.82.32:5001/play/a010
+#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Bangla",45.Travel XP HD Bangla
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -140,9 +141,9 @@ https://durbinlive.com:443/live/jio?c=History_18_Hindi&q=auto&e=IshanJiotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English",65.National Geographic HD Hindi
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English",66.National Geographic HD Bangla
-
+http://195.201.82.32:5001/play/a00x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English",67.National Geographic Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English",68.Discovery HD Bangla
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
@@ -191,7 +192,9 @@ http://208.86.19.21:80/710.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",88.Star Sports 2
 http://qqtv.nl:8080/live/owen1/1owen/30629.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",89.Star Sports Select 1 HD 
-http://195.201.82.32:5001/play/a02b
+http://208.86.19.21:80/736.stream/index.m3u8
+#http://119.156.26.155:8000/play/a07f
+#http://195.201.82.32:5001/play/a02b
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports",90.Star Sports Select 2 HD
 http://208.86.19.21:80/737.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",91.Sky Sports Cricket
@@ -199,7 +202,7 @@ http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports",92.Sky Sports Football
 http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.Ten Cricket
-http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
+http://208.86.19.21:80/711.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",94.PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
@@ -226,7 +229,7 @@ http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon",103.Nick Junior Hindi
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1292
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon",104.Hungama Tv 
-http://103.49.69.246:8000/play/a02g/index.m3u8
+http://119.156.26.155:8000/play/a05t
 
 
 

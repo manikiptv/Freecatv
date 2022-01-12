@@ -174,31 +174,30 @@ https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",82.Live Sports
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Six_SD&q=800&e=junk.m3u8
-#http://qqtv.nl:8080/live/owen1/1owen/30621.m3u8
+http://qqtv.nl:8080/live/owen1/1owen/30621.m3u8
 #http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",83.Sony Six HD
-http://103.81.104.118/hls/sonysix.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports",84.Sony Ten 1 HD
-http://103.81.104.118/hls/sonyten1.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",85.Sony ten 2
-http://103.81.104.118/hls/sonyten2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports",86.Sony Ten 3
-http://103.81.104.118/hls/sonyten3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports",87.Star Sports 1 HD
-http://103.81.104.118/hls/stersports1hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",88.Star Sports 2
-http://103.81.104.118/hls/starsports2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",89.Star Sports Select 1 HD 
-http://103.81.104.118/hls/Star_Sport_Select1HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports",90.Star Sports Select 2 HD
-http://103.81.104.118/hls/select2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",91.Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports",92.Sky Sports Football
-http://208.86.19.21:80/711.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.Ten Cricket
-http://208.86.19.21:80/711.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",94.PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 

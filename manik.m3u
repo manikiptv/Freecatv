@@ -142,7 +142,7 @@ http://103.161.2.142/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English",67.National Geographic Wild
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English",68.Discovery HD Bangla
-https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
+https://durbinlive.com:443/live/jio?c=Discovery_Channel_Bengali&q=auto&e=IshanJiotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
 http://node85142-jiotvgv.in1.bitmana.io/live.php?c=TLC_Hindi&q=800&e=FcnIptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English",70.& Prive HD

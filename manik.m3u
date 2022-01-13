@@ -8,7 +8,7 @@ http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",04.ATN Bangla
 http://103.159.4.38:8080/BD-BANGLA-6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",05.Channel I HD
-http://103.81.104.118/hls/channeli.m3u8
+https://somoy.appv.jagobd.com:444/somoy/channeli-8-org.stream/lplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla",08.Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",09.NTV
@@ -52,13 +52,13 @@ https://rhridoy136.shortcm.li/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla",28.Deepto TV HD
 http://str24.l9574.com/609.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla",29.DBC News
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/206
+https://somoy.appv.jagobd.com:444/somoy/channeli-8-org.stream/lplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla",30.News 24 HD
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla",31.Bangla TV
-ttps://somoy.appv.jagobd.com:444/somoy/banglatvhd.stream/playlist.m3u8
+https://somoy.appv.jagobd.com:444/somoy/banglatvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",32.Duronto TV 
-http://103.70.140.27:8080/hls/duronto.m3u8
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangla",33.Nagorik TV 
 http://103.156.239.147:9000/play/nagoriktv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",34.Ananda TV
@@ -76,14 +76,13 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla",40.Star Jalsha HD
 http://208.86.19.21:80/908.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla",41.Jalsha Movies HD
-http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
-#http://208.86.19.21:80/716.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",42.Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla",43.Sun Bangla
 http://208.86.19.21:80/903.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla",44.Zee Bangla Cinema
-http://195.201.82.32:5001/play/a010
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zeebanglacinema
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Bangla",45.Travel XP HD Bangla
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8

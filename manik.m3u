@@ -169,16 +169,15 @@ https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",82.Live Sports
-http://qqtv.nl:8080/live/owen1/1owen/30621.m3u8
-#http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",83.Sony Six HD
-https://durbinlive.com:443/live/jio?c=Six_HD&q=auto&e=FcnbdIptv.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports",84.Sony Ten 1 HD
-http://208.86.19.21:80/726.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",85.Sony Ten 2 HD
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports",86.Sony Ten 3 HD
-http://208.86.19.21:80/713.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports",87.Star Sports 1 HD
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",88.Star Sports 2

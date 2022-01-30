@@ -191,7 +191,7 @@ http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports",92.Sky Sports Football
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports",93.Ten Cricket
-http://208.86.19.21:80/707.stream/index.m3u8
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",94.PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 

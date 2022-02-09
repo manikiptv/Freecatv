@@ -151,7 +151,7 @@ https://streamer-1.toffeelive.com/live/sony_pix_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2xNwdMi.png" group-title="English",74.FX HD
 http://titanicos.net:8080/live/WAYBRETV6611/WAYBRETV8812/80923.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English",75.Zee Cafe HD
-
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",76.HBO
 http://190.171.101.36:80/HBO/tracks-v3a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",77.Movies Now HD

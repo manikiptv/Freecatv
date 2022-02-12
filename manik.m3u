@@ -65,7 +65,7 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",34.Ananda TV
 https://somoy.appv.jagobd.com:444/somoy/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",35.T Sports HD
-
+http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",36.Peace Tv Bangla
 http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla",37.Colors Bangla HD
@@ -141,7 +141,7 @@ https://durbinlive.com:443/live/jio?c=Discovery_Channel_Bengali&q=auto&e=IshanJi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
 https://durbinlive.com:443/live/jio?c=TLC_Hindi&q=auto&e=IshanJiotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English",70.& Prive HD
-
+http://180.178.130.180:8000/play/a048/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English",71.AXN
 http://titanicos.net:8080/live/WAYBRETV6611/WAYBRETV8812/32181.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English",72.Redbull TV
@@ -169,7 +169,7 @@ https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",82.Live Sports
-
+http://15.235.142.228:8080/live/hometv/premium/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",83.Sony Six HD
 http://live.flixhub.net/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports",84.Sony Ten 1 HD

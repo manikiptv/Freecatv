@@ -73,7 +73,7 @@ http://103.149.130.122:8089/66/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla",38.Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD
-http://str24.l9574.com:80/615.stream/index.m3u8
+http://103.166.253.222/hls/zeebanglahd.m3u8?WithCaption
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla",40.Star Jalsha HD
 http://103.149.130.122:8089/30/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla",41.Jalsha Movies HD

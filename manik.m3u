@@ -74,7 +74,7 @@ http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla",39.Zee Bangla HD
 http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla",40.Star Jalsha HD
-https://manik-iptv.ml/StarJalsha2.m3u8
+http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla",41.Jalsha Movies HD
 http://103.55.144.46/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",42.Sony Aath
@@ -82,7 +82,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Bangla",43.Sun Bangla
 https://snehapi-april.in1.bitmana.io/snxtgo/ts-snxt/75117.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla",44.Zee Bangla Cinema
-http://103.149.130.122:8089/29/index.m3u8
+http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Bangla",45.Travel XP HD Bangla
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 

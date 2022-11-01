@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,Sony Ten 1  (Freecatv)
+http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Ten 2 (Freecatv)
+http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony Six HD (Freecatv)
+http://15.1.5.14:8082/sony-six-hd/index.m3u8
 #EXTINF:-1 ,LIVE SPOSTS 1
 http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 #EXTINF:-1 ,Live Sports-Freecatv

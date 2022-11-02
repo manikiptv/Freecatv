@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 ,Sony Ten 1  (Freecatv)
-http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Ten 2 (Freecatv)
+#EXTINF:-1 ,Sony Ten 2 (Freecatv)
 http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sony Six HD (Freecatv)
 http://15.1.5.14:8082/sony-six-hd/index.m3u8
 #EXTINF:-1 ,LIVE SPOSTS 1
-http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
-#EXTINF:-1 ,Live Sports-Freecatv
 http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 #EXTINF:-1 ,Live Sports-Freecatv
 https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
@@ -33,8 +29,6 @@ https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
 #EXTINF:-1 ,Ten Sports
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
-#EXTINF:-1 ,Freecatv
-http://103.157.249.125:201/play/a07c/index.m3u8
 #EXTINF:-1 ,Willow HD
 http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253670
 #EXTINF:-1 ,Willow Extra HD
@@ -73,8 +67,6 @@ http://jadetv.de:80/eagleiptv/SsFAljPDDi/4196
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/4197
 #EXTINF:-1 ,Live Football 4
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
-#EXTINF:-1 ,Live Football 5
-https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
 #EXTINF:-1 ,Live Sports 12
 https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
 #EXTINF:-1 ,BT Sports 2
@@ -145,18 +137,6 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 #EXTINF:-1 ,Freecatv
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/173160
-#EXTINF:-1 , Live Football Freecatv
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
-#EXTINF:-1 ,BEIN SPORT 1 SD 🇶🇦
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101933
-#EXTINF:-1 ,ELEVEN SPORT 1 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1 ,Eleven 1 HD 🇵🇹
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
-#EXTINF:-1 ,Беларусь 5 HD 🇧🇾
-http://86.57.225.245:7002/play/a00k
-#EXTINF:-1 ,ELEVEN SPORT 2 🇵🇹
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1 ,Eleven 2 🇵🇹
 http://venomtt.com:8000/kdcxxD1U/543545/22519
 #EXTINF:-1 ,DAZN LALIGA 🇪🇸

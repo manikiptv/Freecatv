@@ -1,4 +1,134 @@
 #EXTM3U
+#EXTINF:-1 ,PTV Live
+http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
+#EXTINF:-1 ,Star Sports 1
+http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
+#EXTINF:-1 ,TEN Sports Freecatv
+http://103.157.249.125:201/play/a041/index.m3u8
+#EXTINF:-1 ,Willow HD Freecatv
+http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253670
+#EXTINF:-1 ,Willow EXTRA Freecatv
+http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253717
+#EXTINF:-1 ,Super Cricket Freecatv
+http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253716
+#EXTINF:-1 ,Super Sports Freecatv
+http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/160971
+#EXTINF:-1 ,Sports One Freecatv
+http://146.59.19.1/5031/index.m3u8
+#EXTINF:-1 ,Tennis Channel Freecatv
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,Out Side Plus
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 ,Sony Ten 1 HD
+http://175.107.244.52:4455/play/a01k/index.m3u8
+#EXTINF:-1 ,Star S Hin 1 HD
+http://175.107.244.52:4455/play/a01m/index.m3u8
+#EXTINF:-1 ,Star Sports 1 HD
+http://175.107.244.52:4455/play/a01i/index.m3u8
+#EXTINF:-1 ,Star Sports 2 HD
+http://175.107.244.52:4455/play/a01j/index.m3u8
+#EXTINF:-1 ,Star Sports S 1 HD
+http://175.107.244.52:4455/play/a00t/index.m3u8
+#EXTINF:-1 ,Star Sports S 2 HD
+http://175.107.244.52:4455/play/a00u/index.m3u8
+#EXTINF:-1 ,Sony Ten 2 HD
+http://175.107.244.52:4455/play/a00v/index.m3u8
+#EXTINF:-1 ,T SPORTS Freecatv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.ts
+#EXTINF:-1 ,TEN SPORTS Freecatv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/1.ts
+#EXTINF:-1 ,LIVE SPORTS 3 Freecatv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/2.ts
+#EXTINF:-1 ,LIVE SPORTS 4 Freecatv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/4.ts
+#EXTINF:-1 ,LIVE SPORTS 5 Freecatv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/36.ts
+#EXTINF:-1 ,LIVE SPORTS 6 Freecatv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/37.ts
+#EXTINF:-1 ,STAR SPORTS 1HD
+http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
+#EXTINF:-1 ,Star Sports Select 2
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17923
+#EXTINF:-1 ,Freecatv
+http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Freecatv
+https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Freecatv
+http://tvs1.aynaott.com/Ten3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony Ten 4
+https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
+#EXTINF:-1 ,Sony Six SD
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
+#EXTINF:-1 ,Sony Six HD
+https://tvs1.aynaott.com/SonySix/index.m3u8
+#EXTINF:-1 ,Freecatv
+http://watchindia.net:8880/live/vvv/vvv/2325.ts
+#EXTINF:-1 ,Ten Sports
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
+#EXTINF:-1 ,#http://208.86.19.13:81/602.stream/index.m3u8
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
+#EXTINF:-1 ,Star Sports Select 1 HD
+http://45.125.220.129:81/play/a057
+#EXTINF:-1 ,Star Sports Select 2 HD
+http://45.125.220.129:81/play/a058
+#EXTINF:-1 group-title="T20 World Cup",PTV Sports (Freecatv)
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
+#EXTINF:-1 group-title="T20 World Cup",ESPN+ (Freecatv)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
+#EXTINF:-1 group-title="T20 World Cup",Sky Sports (Freecatv)
+http://ys-users.com:8080/christa/christa/428286
+#EXTINF:-1 group-title="T20 World Cup",Willow
+http://ys-users.com:8080/christa/christa/418212
+#EXTINF:-1 group-title="T20 World Cup",Willow (Freecatv)
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100936
+#EXTINF:-1 group-title="T20 World Cup",ESPN
+http://ys-users.com:8080/christa/christa/367070
+#EXTINF:-1 group-title="T20 World Cup",ESPN (Freecatv)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/54369.ts
+#EXTINF:-1 group-title="T20 World Cup",ESPN (Freecatv)
+http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/100401
+#EXTINF:-1 group-title="T20 World Cup",ESPN (Freecatv)
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2928.ts
+#EXTINF:-1 group-title="T20 World Cup",ESPN (Freecatv)
+http://apex-media.xyz:8080/adamryan762@gmail.com/e3QZWRs/1644
+#EXTINF:-1 group-title="T20 World Cup",SuperSports
+http://ys-users.com:8080/christa/christa/377948
+#EXTINF:-1 group-title="T20 World Cup",SuperSports (Freecatv)
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1440547.ts
+#EXTINF:-1 group-title="T20 World Cup",Astro Cricket (Freecatv)
+http://ys-users.com:8080/christa/christa/377941
+#EXTINF:-1 group-title="T20 World Cup",Fox sports
+http://ys-users.com:8080/christa/christa/425262
+#EXTINF:-1 group-title="T20 World Cup",Channel nine
+http://ys-users.com:8080/christa/christa/434736
+#EXTINF:-1 ,FOX SPORTS 1 HD Freecatv
+http://89.187.175.143:80/3056/index.m3u8
+#EXTINF:-1 ,FOX SPORTS 2 HD
+http://89.187.175.143:80/3028/index.m3u8
+#EXTINF:-1 ,T Sports HD
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+#EXTINF:-1 ,STAR SPORTS 2 HD
+http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
+#EXTINF:-1 ,BEIN Xtra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 ,BT Sports 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 ,BT Sports 3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 ,FOX SPORTS DETROIT HD
+http://89.187.175.143:80/3115/index.m3u8
+#EXTINF:-1 ,FOX SPORTS NORTH HD
+http://89.187.175.143:80/3113/index.m3u8
+#EXTINF:-1 ,LIVE SPOSTS 1
+http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
+#EXTINF:-1 ,T SPORTS HD
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:-1 ,SONY SIX HD
+http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
+#EXTINF:-1 ,SONY TEN1 HD
+http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
+#EXTINF:-1 ,SONY TEN2 HD
+http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 #EXTINF:-1 ,Sony Ten 2 (Freecatv)
 http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sony Six HD (Freecatv)

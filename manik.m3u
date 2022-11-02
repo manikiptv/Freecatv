@@ -1,10 +1,18 @@
 #EXTM3U
 #EXTINF:-1 ,Freecatv Live IPTV / manik iptv
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,PTV Live
-http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
-#EXTINF:-1 ,Star Sports 1
-http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
+#EXTINF:-1 ,Star Sports 1 HD
+http://175.107.244.52:4455/play/a01i/index.m3u8
+#EXTINF:-1 ,Star Sports 2 HD
+http://175.107.244.52:4455/play/a01j/index.m3u8
+#EXTINF:-1 ,Star Sports S 1 HD
+http://175.107.244.52:4455/play/a00t/index.m3u8
+#EXTINF:-1 ,Star Sports S 2 HD
+http://175.107.244.52:4455/play/a00u/index.m3u8
+#EXTINF:-1 ,Sony Ten 2 HD
+http://175.107.244.52:4455/play/a00v/index.m3u8
+#EXTINF:-1 ,T SPORTS Freecatv
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.ts
 #EXTINF:-1 ,TEN Sports Freecatv
 http://103.157.249.125:201/play/a041/index.m3u8
 #EXTINF:-1 ,Willow HD Freecatv
@@ -25,18 +33,6 @@ https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 http://175.107.244.52:4455/play/a01k/index.m3u8
 #EXTINF:-1 ,Star S Hin 1 HD
 http://175.107.244.52:4455/play/a01m/index.m3u8
-#EXTINF:-1 ,Star Sports 1 HD
-http://175.107.244.52:4455/play/a01i/index.m3u8
-#EXTINF:-1 ,Star Sports 2 HD
-http://175.107.244.52:4455/play/a01j/index.m3u8
-#EXTINF:-1 ,Star Sports S 1 HD
-http://175.107.244.52:4455/play/a00t/index.m3u8
-#EXTINF:-1 ,Star Sports S 2 HD
-http://175.107.244.52:4455/play/a00u/index.m3u8
-#EXTINF:-1 ,Sony Ten 2 HD
-http://175.107.244.52:4455/play/a00v/index.m3u8
-#EXTINF:-1 ,T SPORTS Freecatv
-http://xtream.efiberbd.net:8080/live/mkaua/stream/3.ts
 #EXTINF:-1 ,TEN SPORTS Freecatv
 http://xtream.efiberbd.net:8080/live/mkaua/stream/1.ts
 #EXTINF:-1 ,LIVE SPORTS 3 Freecatv
@@ -273,3 +269,7 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/173160
 http://venomtt.com:8000/kdcxxD1U/543545/22519
 #EXTINF:-1 ,DAZN LALIGA 🇪🇸
 http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1 ,PTV Live
+http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
+#EXTINF:-1 ,Star Sports 1
+http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8

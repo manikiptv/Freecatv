@@ -1,4 +1,8 @@
-
+#EXTM3U
+#EXTINF:-1,ZEE BANGLA
+http://freecatv-manik.xyz/ZEE~BANGLA.m3u8
+#EXTINF:-1,STAR JALSHA
+http://freecatv-manik.xyz/Star-Jalsha.m3u8
 #EXTINF:-1 ,iB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 ,Bangla TV

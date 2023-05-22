@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 ,Star-Jalsha-sd
+http://freecatv-manik.xyz/Star-Jalsha-sd.m3u8
+#EXTINF:-1 ,EKUSHE TELEVISION
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 ,SOMOY TV
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 ,JAMUNA
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 ,BANGLA VISION
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/playlist.m3u8
+#EXTINF:-1 ,ATN Islamic (BDIX0)
+http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1,ZEE BANGLA
 http://freecatv-manik.xyz/ZEE~BANGLA.m3u8
 #EXTINF:-1,STAR JALSHA

@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Star Jalsa HD
-http://starshare.live:8080/live/Shirley/Shirley/198.ts
-#EXTINF:-1 ,Dhoom Music(BD)
-https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
-#EXTINF:-1 ,Zee Bangla HD (1)
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6636/index.m3u8
-#EXTINF:-1 ,Star-Jalsha-sd
-http://freecatv-manik.xyz/Star-Jalsha-sd.m3u8
-#EXTINF:-1 ,EKUSHE TELEVISION
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 ,SOMOY TV
-http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
-#EXTINF:-1 ,JAMUNA
-http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:-1 ,BANGLA VISION
-http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/playlist.m3u8
-#EXTINF:-1 ,ATN Islamic (BDIX0)
-http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 ,ZEE BANGLA
-http://freecatv-manik.xyz/ZEE~BANGLA.m3u8
-#EXTINF:-1 ,STAR JALSHA
-http://freecatv-manik.xyz/Star-Jalsha.m3u8
-#EXTINF:-1 ,iB TV USA
-http://208.86.19.13:81/509.stream/index.m3u8
-#EXTINF:-1 ,Bangla TV
-http://208.86.19.13:81/504.stream/index.m3u8
 #EXTINF:-1 ,Channel 24
 http://bd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 ,Deshi TV
@@ -33,14 +7,80 @@ http://208.86.19.13:81/514.stream/index.m3u8
 http://bd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 ,BANGLA TV
 http://bd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 ,JagoNews24 TV
+http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 ,ATN Music(Jagobd)
 http://bd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 ,Star-Jalsha-sd
+http://freecatv-manik.xyz/Star-Jalsha-sd.m3u8
+#EXTINF:-1 ,SOMOY TV
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 ,JAMUNA
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 ,BANGLA VISION
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/playlist.m3u8
+#EXTINF:-1 ,ATN Islamic (BDIX0)
+http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 ,Movie Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1 ,ATN News
+http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/playlist.m3u8
+#EXTINF:-1 ,ATN Islamic
+http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/playlist.m3u8
+#EXTINF:-1 ,ATN Music
+http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 ,Channel 9
+http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 ,Independent TV
+http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 ,Somoy News
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 ,DBC News
+http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 ,DBC News HD (BDIX0)
+http://12.1.1.1:8082/DBC-NEWS/index.m3u8
+#EXTINF:-1 ,ATN News
+http://12.1.1.1:8082/Atn-News/index.m3u8
+#EXTINF:-1 ,Independent TV
+http://12.1.1.1:8082/Independent-Tv/index.m3u8
+#EXTINF:-1 ,Somoy News
+http://12.1.1.1:8082/Somoy-TV/index.m3u8
+#EXTINF:-1 ,ATN Bangla
+http://12.1.1.1:8082/ATN-Bangla/index.m3u8
+#EXTINF:-1 ,Banglavision
+http://12.1.1.1:8082/BanglaVision/index.m3u8
+#EXTINF:-1 ,Boishakhi TV
+http://12.1.1.1:8082/Boishakhi/index.m3u8
+#EXTINF:-1 ,Free Cable TV
+http://freecatv-manik.xyz/freecatv.m3u8
+#EXTINF:-1 ,NAN IPTV
+https://cdn.appv.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
+#EXTINF:-1 ,I IPTV [BD]
+http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF:-1 ,Movie Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
 #EXTINF:-1 ,Show Time HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 ,TV
 https://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 ,Matri Bhumi HD
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
+#EXTINF:-1 ,Star Jalsa HD
+http://starshare.live:8080/live/Shirley/Shirley/198.ts
+#EXTINF:-1 ,Dhoom Music(BD)
+https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
+#EXTINF:-1 ,Zee Bangla HD (1)
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6636/index.m3u8
+#EXTINF:-1 ,EKUSHE TELEVISION
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 ,ZEE BANGLA
+http://freecatv-manik.xyz/ZEE~BANGLA.m3u8
+#EXTINF:-1 ,STAR JALSHA
+http://freecatv-manik.xyz/Star-Jalsha.m3u8
+#EXTINF:-1 ,iB TV USA
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 ,Bangla TV
+http://208.86.19.13:81/504.stream/index.m3u8
 #EXTINF:-1 ,Ruposhi Bangla
 https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8
 #EXTINF:-1 ,Iqra Bangla
@@ -53,8 +93,6 @@ http://208.86.19.13:81/519.stream/index.m3u8
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 group-title="freecatv",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,ATN Music Jago
-http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 ,Iqra Bangla freecatv
 http://208.86.19.13:81/507.stream/index.m3u8
 #EXTINF:-1 ,MY TV (BDIX0)

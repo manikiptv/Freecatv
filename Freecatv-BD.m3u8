@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Star~Jalsha
-http://freecatv-manik.xyz/Star~Jalsha.ts
-#EXTINF:-1,Zee~Bangla-HD
-http://freecatv-manik.xyz/Zee~Bangla-HD.ts
 #EXTINF:-1 ,Channel 24
 http://bd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 ,Deshi TV

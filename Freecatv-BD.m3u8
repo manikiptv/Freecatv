@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 ,BOISHAKHI PLUS
+https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 ,Gazi TV HD 1
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1 ,Sports 4
+http://103.102.27.173/live/tvfeed1005/index.m3u8
+#EXTINF:-1 ,Sports 5
+http://103.102.27.173/live/tvfeed1006/index.m3u8
+#EXTINF:-1 group-title="KOLKATA",MAASRANGA TV official
+http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1 ,PTV Sports
+http://103.190.35.2:8082/PTV-Sports/tracks-a1v1/index.m3u8
+#EXTINF:-1 ,Star Jalsha HD
+http://103.190.35.2:8082/Star-Jalsha/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,DesheBideshe TV
+http://ipm.oncast.me:1932/iplived/iptvdeshebideshe.stream/playlist.m3u8
+#EXTINF:-1 ,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 ,Channel S (UK)
+http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 ,Zee 24 Ghanta
+https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_12.m3u8
+#EXTINF:-1 ,Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 ,boishakhi tv
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,MY TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 ,Asian TV(Jagobd)
@@ -77,8 +105,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 ,Matri Bhumi HD
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
-#EXTINF:-1 ,Star Jalsa HD
-http://starshare.live:8080/live/Shirley/Shirley/198.ts
 #EXTINF:-1 ,Dhoom Music(BD)
 https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
 #EXTINF:-1 ,Zee Bangla HD (1)

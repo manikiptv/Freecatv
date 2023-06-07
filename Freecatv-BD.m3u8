@@ -69,8 +69,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 ,ATN Music
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 ,Channel 9
-http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 ,Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 ,Somoy News
@@ -99,8 +97,6 @@ https://cdn.appv.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 #EXTINF:-1 ,Movie Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
-#EXTINF:-1 ,Show Time HD
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 ,TV
 https://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 ,Matri Bhumi HD

@@ -1,4 +1,264 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports",Sony TEN 1 HD
+https://toffee-thecodecrafters.vercel.app/auto/sony_ten1_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports",Sony TEN 2 HD
+https://toffee-thecodecrafters.vercel.app/auto/sony_ten2_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports",Sony TEN 3 HD
+https://toffee-thecodecrafters.vercel.app/auto/sony_ten3_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports",Sony TEN 5 HD
+https://toffee-thecodecrafters.vercel.app/auto/sony_six_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/49/logo/240x240/mobile_logo_559887001666781361.png" group-title="Sports",Sony TEN 1
+https://toffee-thecodecrafters.vercel.app/auto/ten_1.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/50/logo/240x240/mobile_logo_832280001666781441.png" group-title="Sports",Sony TEN 2
+https://toffee-thecodecrafters.vercel.app/auto/ten_2.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/51/logo/240x240/mobile_logo_066851001666781605.png" group-title="Sports",Sony TEN 3
+https://toffee-thecodecrafters.vercel.app/auto/ten_3.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/351/logo/240x240/mobile_logo_027801001666782321.png" group-title="Sports",Sony TEN 5
+https://toffee-thecodecrafters.vercel.app/auto/sony_six.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Sports",EURO Sport HD
+https://toffee-thecodecrafters.vercel.app/auto/euro_sports_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4387/logo/240x240/mobile_logo_412057001674119486.png" group-title="Sports",EURO Sport
+https://toffee-thecodecrafters.vercel.app/auto/euro_sports_sd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/395/logo/240x240/mobile_logo_495999001673184134.png" group-title="Sports",Dubai Sport
+https://toffee-thecodecrafters.vercel.app/auto/dubai_sports.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Indian-Bangla Entertainment",Zee Bangla
+https://toffee-thecodecrafters.vercel.app/auto/zee_bangla.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Indian-Bangla Entertainment",Sony AATH
+https://toffee-thecodecrafters.vercel.app/auto/sony_aath.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2505/logo/240x240/mobile_logo_200057001655891962.png" group-title="Indian-Bangla Entertainment",Colors Bangla
+https://toffee-thecodecrafters.vercel.app/auto/colors_b.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian-Bangla Entertainment",Star Jalsha
+https://toffee-thecodecrafters.vercel.app/auto/star_jalsha.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="Bangladeshi News",Somoy TV
+https://toffee-thecodecrafters.vercel.app/auto/somoy_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="Bangladeshi News",Ekattor TV HD
+https://toffee-thecodecrafters.vercel.app/auto/ekattor_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="Bangladeshi News",Independent TV
+https://toffee-thecodecrafters.vercel.app/auto/independent.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="Bangladeshi News",Channel 24
+https://toffee-thecodecrafters.vercel.app/auto/channel_24.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="Bangladeshi News",DBC NEWS
+https://toffee-thecodecrafters.vercel.app/auto/dbc_news.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="Bangladeshi News",ATN NEWS
+https://toffee-thecodecrafters.vercel.app/auto/atn_news.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png" group-title="Bangladeshi News",NEWS 24 HD
+https://toffee-thecodecrafters.vercel.app/auto/news24hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="Bangladeshi News",Jamuna TV
+https://toffee-thecodecrafters.vercel.app/auto/jamuna_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/232/logo/240x240/mobile_logo_731969001673183522.png" group-title="Bangladeshi News",SATV HD
+https://toffee-thecodecrafters.vercel.app/auto/satv_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png" group-title="Bangladeshi News",Global TV HD
+https://toffee-thecodecrafters.vercel.app/auto/global_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/234/logo/240x240/mobile_logo_496491001655891051.png" group-title="International News",Aljazeera
+https://toffee-thecodecrafters.vercel.app/auto/aljazeera.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_373682001676354236.png" group-title="International News",CNN
+https://toffee-thecodecrafters.vercel.app/auto/cnn.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/363/logo/240x240/mobile_logo_700739001655891233.png" group-title="International News",DW
+https://toffee-thecodecrafters.vercel.app/auto/dw.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/336/logo/240x240/mobile_logo_740569001675858107.png" group-title="International News",Zee NEWS
+https://toffee-thecodecrafters.vercel.app/auto/zee_news.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/662/logo/240x240/mobile_logo_851160001655891584.png" group-title="International News",RTR Planet
+https://toffee-thecodecrafters.vercel.app/auto/rtr_planet.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/655/logo/240x240/mobile_logo_455321001655891572.png" group-title="International News",Euro News
+https://toffee-thecodecrafters.vercel.app/auto/euro_news.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/372/logo/240x240/mobile_logo_311458001655891246.png" group-title="International News",Arirang
+https://toffee-thecodecrafters.vercel.app/auto/arirang.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/668/logo/240x240/mobile_logo_867839001655891607.png" group-title="International News",CGTN
+https://toffee-thecodecrafters.vercel.app/auto/cgtn.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/393/logo/240x240/mobile_logo_435300001673184707.png" group-title="International News",Channel NewsAsia
+https://toffee-thecodecrafters.vercel.app/auto/channel_n_asia.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4569/logo/240x240/mobile_logo_422385001655892034.png" group-title="International News",Zee BUISNESS
+https://toffee-thecodecrafters.vercel.app/auto/zee_business.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18099/logo/240x240/mobile_logo_684353001673241863.png" group-title="International News",KBS World 24
+https://toffee-thecodecrafters.vercel.app/auto/kbs_world24.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/407/logo/240x240/mobile_logo_448662001655891393.png" group-title="International News",TV5 Monde
+https://toffee-thecodecrafters.vercel.app/auto/tv5_monde.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/658/logo/240x240/mobile_logo_982797001673184503.png" group-title="International News",Aljazeera Arabic
+https://toffee-thecodecrafters.vercel.app/auto/aljazeera_arabic.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/384/logo/240x240/mobile_logo_258111001655891294.png" group-title="International News",NHK World Japan
+https://toffee-thecodecrafters.vercel.app/auto/nhk_world.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/1768/logo/240x240/mobile_logo_079930001673184899.png" group-title="International News",France 24
+https://toffee-thecodecrafters.vercel.app/auto/france24.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="Bangladeshi Entertainment",Channel i
+https://toffee-thecodecrafters.vercel.app/auto/channel_i.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="Bangladeshi Entertainment",RTV
+https://toffee-thecodecrafters.vercel.app/auto/rtv_b.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="Bangladeshi Entertainment",NTV
+https://toffee-thecodecrafters.vercel.app/auto/ntv_b.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="Bangladeshi Entertainment",Bangla Vision
+https://toffee-thecodecrafters.vercel.app/auto/bangla_vision.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="Bangladeshi Entertainment",ATN Bangla
+https://toffee-thecodecrafters.vercel.app/auto/atn_bangla.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="Bangladeshi Entertainment",Ananda TV
+https://toffee-thecodecrafters.vercel.app/auto/ananda_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="Bangladeshi Entertainment",Boishakhi TV
+https://toffee-thecodecrafters.vercel.app/auto/boishakhi.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="Bangladeshi Entertainment",Channel 9
+https://toffee-thecodecrafters.vercel.app/auto/channel_9.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png" group-title="Bangladeshi Entertainment",Mohona TV
+https://toffee-thecodecrafters.vercel.app/auto/mohona_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="Bangladeshi Entertainment",My TV
+https://toffee-thecodecrafters.vercel.app/auto/my_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="Bangladeshi Entertainment",BTV HD
+https://toffee-thecodecrafters.vercel.app/auto/btv_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="Bangladeshi Entertainment",Bijoy TV
+https://toffee-thecodecrafters.vercel.app/auto/bijoy_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="Bangladeshi Entertainment",Asian TV HD
+https://toffee-thecodecrafters.vercel.app/auto/asian_tv_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png" group-title="Bangladeshi Entertainment",Bangla TV HD
+https://toffee-thecodecrafters.vercel.app/auto/bangla_tv_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="Bangladeshi Entertainment",Desh TV
+https://toffee-thecodecrafters.vercel.app/auto/desh_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="Bangladeshi Entertainment",BTV World
+https://toffee-thecodecrafters.vercel.app/auto/btv_world.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/334/logo/240x240/mobile_logo_355998001673183662.png" group-title="Bangladeshi Entertainment",Ekushey TV
+https://toffee-thecodecrafters.vercel.app/auto/ekushey_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/418/logo/240x240/mobile_logo_799556001673182578.png" group-title="Bangladeshi Entertainment",BTV Chittagong
+https://toffee-thecodecrafters.vercel.app/auto/btv_ctg.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/10908/logo/240x240/mobile_logo_027712001655892101.png" group-title="Bangladeshi Entertainment",Nexus TV
+https://toffee-thecodecrafters.vercel.app/auto/nexus_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png" group-title="Bangladeshi Entertainment",Sangshodh Bangladesh
+https://toffee-thecodecrafters.vercel.app/auto/btv_sangshodh.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18835/logo/240x240/mobile_logo_482266001683805730.png" group-title="Indian Entertainment",Star Gold
+https://toffee-thecodecrafters.vercel.app/auto/star_gold.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18841/logo/240x240/mobile_logo_664367001683806020.png" group-title="Indian Entertainment",Star Plus
+https://toffee-thecodecrafters.vercel.app/auto/star_plus.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png" group-title="Indian Entertainment",Star Bharat
+https://toffee-thecodecrafters.vercel.app/auto/star_bharat.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian Entertainment",Sony MAX HD
+https://toffee-thecodecrafters.vercel.app/auto/set_max_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Indian Entertainment",Sony MAX SD
+https://toffee-thecodecrafters.vercel.app/auto/sony_max.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Indian Entertainment",Sony Entertainment HD
+https://toffee-thecodecrafters.vercel.app/auto/sony_entertainmnt_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Indian Entertainment",Sony Entertainment
+https://toffee-thecodecrafters.vercel.app/auto/sony_entertainment.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Indian Entertainment",Sony SAB HD
+https://toffee-thecodecrafters.vercel.app/auto/sony_sab_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/342/logo/240x240/mobile_logo_512950001666785776.png" group-title="Indian Entertainment",Sony SAB SD
+https://toffee-thecodecrafters.vercel.app/auto/sony_sab.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Indian Entertainment",Sony MAX2
+https://toffee-thecodecrafters.vercel.app/auto/sony_max_2.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Indian Entertainment",Sony WAH
+https://toffee-thecodecrafters.vercel.app/auto/sony_wah.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2421/logo/240x240/mobile_logo_799518001666784496.png" group-title="Indian Entertainment",Sony PAL
+https://toffee-thecodecrafters.vercel.app/auto/sony_pal.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png" group-title="Indian Entertainment",Zee TV HD
+https://toffee-thecodecrafters.vercel.app/auto/zee_tv_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4567/logo/240x240/mobile_logo_165498001675857326.png" group-title="Indian Entertainment",Zee Anmol
+https://toffee-thecodecrafters.vercel.app/auto/zee_anmol.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2425/logo/240x240/mobile_logo_844782001655891780.png" group-title="Indian Entertainment",Colors
+https://toffee-thecodecrafters.vercel.app/auto/colors.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2436/logo/240x240/mobile_logo_637826001655891948.png" group-title="Indian Entertainment",Colors Rishtey
+https://toffee-thecodecrafters.vercel.app/auto/colors_rishtey.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" group-title="Indian Entertainment",&TV HD
+https://toffee-thecodecrafters.vercel.app/auto/and_tv_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Indian Entertainment",&Pictures HD
+https://toffee-thecodecrafters.vercel.app/auto/and_picture_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Entertainment",Zee CAFÉ HD
+https://toffee-thecodecrafters.vercel.app/auto/zee_cafe_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2428/logo/240x240/mobile_logo_455256001655891827.png" group-title="English Entertainment",Colors Infinity HD
+https://toffee-thecodecrafters.vercel.app/auto/colors_infinity_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2427/logo/240x240/mobile_logo_461931001655891802.png" group-title="English Entertainment",Comedy Central HD
+https://toffee-thecodecrafters.vercel.app/auto/comedy_central_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png" group-title="Kids",Nick
+https://toffee-thecodecrafters.vercel.app/auto/nick.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="Kids",Cartoon Network HD+
+https://toffee-thecodecrafters.vercel.app/auto/cartoon_network_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="Kids",Cartoon Network SD
+https://toffee-thecodecrafters.vercel.app/auto/cartoon_network_sd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Kids",Sony Yay
+https://toffee-thecodecrafters.vercel.app/auto/sony_yay.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png" group-title="Kids",Sonic
+https://toffee-thecodecrafters.vercel.app/auto/sonic.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="Kids",Discovery Kids
+https://toffee-thecodecrafters.vercel.app/auto/discovery_kids.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2435/logo/240x240/mobile_logo_910829001655891932.png" group-title="Kids",Nick Junior
+https://toffee-thecodecrafters.vercel.app/auto/nick_junior.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2435/logo/240x240/mobile_logo_910829001655891932.png" group-title="Kids",Pogo
+https://toffee-thecodecrafters.vercel.app/auto/pogo.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="Bangla Movies",Zee Bangla Cinema
+https://toffee-thecodecrafters.vercel.app/auto/zee_bangla_cinema.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/10157/logo/240x240/mobile_logo_151189001655892087.png" group-title="Bangla Movies",Colors Bangla Cinema
+https://toffee-thecodecrafters.vercel.app/auto/colors_bangla_cinema.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="Bangla Movies",Movie Bangla
+https://toffee-thecodecrafters.vercel.app/auto/movie_bangla.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png" group-title="Bangla Movies",Jalsha Movies
+https://toffee-thecodecrafters.vercel.app/auto/jalsha_movies.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_226947001684477528.png" group-title="Bangla Movies",toffee-v2 Movies
+https://toffee-thecodecrafters.vercel.app/auto/sports_live_01.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_746756001684756029.png" group-title="Bangla Movies",toffee-v2 Dramas
+https://toffee-thecodecrafters.vercel.app/auto/toffee-v2_drama.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Movies",Zee Cinema HD
+https://toffee-thecodecrafters.vercel.app/auto/zee_cinema_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Indian Movies",B4U Movies
+https://toffee-thecodecrafters.vercel.app/auto/b4u_movies.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/355/logo/240x240/mobile_logo_569572001655891220.png" group-title="Indian Movies",Zee Action
+https://toffee-thecodecrafters.vercel.app/auto/zee_action.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/400/logo/240x240/mobile_logo_624780001655891361.png" group-title="Indian Movies",Zee Bollywood
+https://toffee-thecodecrafters.vercel.app/auto/zee_bolly.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="English Movies",Sony PIX HD
+https://toffee-thecodecrafters.vercel.app/auto/sony_pix_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/397/logo/240x240/mobile_logo_049568001666785583.png" group-title="English Movies",Sony PIX SD
+https://toffee-thecodecrafters.vercel.app/auto/sony_pix.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18098/logo/240x240/mobile_logo_508084001673240324.png" group-title="English Movies",iFilm
+https://toffee-thecodecrafters.vercel.app/auto/iflim_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/389/logo/240x240/mobile_logo_466667001673185088.png" group-title="English Movies",Lotus Macau
+https://toffee-thecodecrafters.vercel.app/auto/lotus_macau.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/613/logo/240x240/mobile_logo_192652001655891524.png" group-title="Islamic",Quran TV
+https://toffee-thecodecrafters.vercel.app/auto/quran_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/610/logo/240x240/mobile_logo_677105001655891492.png" group-title="Islamic",Sunnah TV
+https://toffee-thecodecrafters.vercel.app/auto/sunnah_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="Music",Zoom TV
+https://toffee-thecodecrafters.vercel.app/auto/zoom_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Music",B4U Music
+https://toffee-thecodecrafters.vercel.app/auto/b4umusic.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png" group-title="Music",MTV Beats HD
+https://toffee-thecodecrafters.vercel.app/auto/mtv_beats_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18831/logo/240x240/mobile_logo_146321001673415827.png" group-title="Music",MB Music
+https://toffee-thecodecrafters.vercel.app/auto/movie_b_music.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2431/logo/240x240/mobile_logo_398176001655891867.png" group-title="Music",MTV
+https://toffee-thecodecrafters.vercel.app/auto/mtv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png" group-title="Music",Zing
+https://toffee-thecodecrafters.vercel.app/auto/zing_sd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2433/logo/240x240/mobile_logo_609993001655891894.png" group-title="Music",VH1 HD
+https://toffee-thecodecrafters.vercel.app/auto/vh1_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" group-title="Infotainment",Animal Planet HD
+https://toffee-thecodecrafters.vercel.app/auto/animal_planet_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="Infotainment",Animal Planet SD
+https://toffee-thecodecrafters.vercel.app/auto/animal_planet_sd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" group-title="Infotainment",Discovery HD
+https://toffee-thecodecrafters.vercel.app/auto/discovery_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="Infotainment",Discovery SD
+https://toffee-thecodecrafters.vercel.app/auto/discovery_sd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="Infotainment",Discovery Science
+https://toffee-thecodecrafters.vercel.app/auto/discovery_science.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png" group-title="Infotainment",Discovery Asia
+https://toffee-thecodecrafters.vercel.app/auto/discovery_asia.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="Infotainment",Discovery Turbo
+https://toffee-thecodecrafters.vercel.app/auto/discovery_turbo.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="Infotainment",Discovery Investigation HD
+https://toffee-thecodecrafters.vercel.app/auto/discovery_india_id_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png" group-title="Infotainment",Discovery Investigation SD
+https://toffee-thecodecrafters.vercel.app/auto/discovery_india_id_sd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="Infotainment",TLC HD
+https://toffee-thecodecrafters.vercel.app/auto/tlc_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="Infotainment",TLC SD
+https://toffee-thecodecrafters.vercel.app/auto/tlc_sd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="Infotainment",History TV
+https://toffee-thecodecrafters.vercel.app/auto/history_tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="Infotainment",Sony BBC Earth HD
+https://toffee-thecodecrafters.vercel.app/auto/sony_bbc_earth_hd.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/396/logo/240x240/mobile_logo_708825001655891324.png" group-title="Infotainment",Sony BBC Earth SD
+https://toffee-thecodecrafters.vercel.app/auto/sony_bbc_earth.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4786/logo/240x240/mobile_logo_570626001655892054.png" group-title="Infotainment",Tech Storm
+https://toffee-thecodecrafters.vercel.app/auto/tech_storm.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18837/logo/240x240/mobile_logo_951347001683805257.png" group-title="Infotainment",National Geographic WILD
+https://toffee-thecodecrafters.vercel.app/auto/nat_geo_wild.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18840/logo/240x240/mobile_logo_024343001683805110.png" group-title="Infotainment",National Geographic
+https://toffee-thecodecrafters.vercel.app/auto/nat_geo.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Infotainment",FOX Life
+https://toffee-thecodecrafters.vercel.app/auto/fox_life.m3u8
 #EXTINF:-1 ,Gazi TV HD 1
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 ,Sports 4

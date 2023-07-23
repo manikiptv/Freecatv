@@ -7,12 +7,8 @@ http://103.102.27.173/live/tvfeed1006/index.m3u8
 http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 ,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 ,Channel S (UK)
-http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 ,ATN MUSIC
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 ,DW(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 ,Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 ,MY TV(Jagobd)
@@ -55,8 +51,6 @@ http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 ,iB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
-#EXTINF:-1 ,Iqra Bangla
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 #EXTINF:-1 ,Channel S UK
 http://208.86.19.13:81/519.stream/index.m3u8
 #EXTINF:-1 group-title="freecatv",Hollywood HD
@@ -67,8 +61,6 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 http://208.86.19.13:81/507.stream/index.m3u8
 #EXTINF:-1 ,MY TV (BDIX0)
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1 ,Channel S (UK)
-https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 #EXTINF:-1 ,Khushboo Bangla(BD2)
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 ,C MOVOIES
@@ -93,8 +85,6 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 ,JagoNews24 TV
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 ,Voice TV
-http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8
 #EXTINF:-1 ,Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 ,Bangla Talkies
@@ -137,18 +127,10 @@ http://45.5.117.182:8000/play/a0it/index.m3u8
 http://45.5.117.182:8000/play/a0eq/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://181.189.243.254:8000/play/a0sa/index.m3u8
-#EXTINF:-1 ,SAB HD
-http://208.86.19.13:81/7022.stream/index.m3u8
-#EXTINF:-1 ,STAR.BHARAT
-http://208.86.19.13:81/7211.stream/index.m3u8
-#EXTINF:-1 ,&PICTURESHD
-http://208.86.19.13:81/7055.stream/index.m3u8
 #EXTINF:-1 ,SONY.MAX HD
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 ,SONY.MAX 2
 http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 ,Colors.Cineplex HD
-http://208.86.19.13:81/73555.stream/index.m3u8
 #EXTINF:-1 ,Star Gold(BD)
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,COLORS HD (IN)
@@ -165,8 +147,6 @@ http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,Colors
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
-#EXTINF:-1 ,Star Gold Select HD
-http://208.86.19.13:81/7099.stream/index.m3u8
 #EXTINF:-1 ,STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
 #EXTINF:-1 ,UTV HD (IN)

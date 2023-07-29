@@ -135,20 +135,10 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,COLORS HD (IN)
 http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
-#EXTINF:-1 ,Star Bharat HD
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
-#EXTINF:-1 ,STAR PLUS HD (IN)
-http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,Zee TV HD
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
 #EXTINF:-1 ,B4U MOVIES (IN)
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Zee Cinema HD
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Colors
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
-#EXTINF:-1 ,STAR PLUS HD (IN)
-http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
 #EXTINF:-1 ,UTV HD (IN)
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,ESPN

@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,Channel I 🇧🇩
+http://162.244.81.142:1935/live/livestream/chunklist_w1355945905.m3u8
+#EXTINF:-1 ,Peace TV Bangla 🇧🇩
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 ,Ekusey TV 🇧🇩
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 ,Deepto Tv 🇧🇩
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 ,Ekhon Tv
 http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/playlist.m3u8
 #EXTINF:-1 ,ZEE BANGLA CINEMA
@@ -125,7 +133,5 @@ http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,ESPN
 http://191.102.90.97:8000/play/a08b/index.m3u8
-#EXTINF:-1 ,Star Sports 1
-http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58220
 #EXTINF:-1 ,Viaplay
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8

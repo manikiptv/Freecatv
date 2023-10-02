@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Discovery ALL
+https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
 #EXTINF:-1 ,Channel I 🇧🇩
 http://162.244.81.142:1935/live/livestream/chunklist_w1355945905.m3u8
 #EXTINF:-1 ,Peace TV Bangla 🇧🇩

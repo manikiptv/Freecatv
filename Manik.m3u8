@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,PTV SPORTS HD
+http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
+#EXTINF:-1,Sportv 
+https://pull-f5-spe.ixigua.com/live/iAoVivo-44c8781f-7e65-47d3-9ca5-df26a8f333fe.flv
+#EXTINF:-1,True sports 7
+https://m1.ballnaja.com/live/True_Sports_7/playlist.m3u8
+#EXTINF:-1,True sports 5
+https://m1.ballnaja.com/live/True_Sports_5/playlist.m3u8
+#EXTINF:-1,True sports 1
+https://m1.ballnaja.com/live/True_Sports_1/playlist.m3u8
+#EXTINF:-1,True sports 3
+https://m1.ballnaja.com/live/True_Sports_3/playlist.m3u8
 #EXTINF:-1,SONY LIV
 https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF:-1,Skysports_select_NZ

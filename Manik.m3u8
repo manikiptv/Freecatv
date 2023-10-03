@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,World Cup 2023 Star Sports 1 HD
+http://opplextv.cyou:8080/live/33344455/33344455/167587.ts
 #EXTINF:-1,PTV SPORTS HD
 http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
 #EXTINF:-1,Sportv 

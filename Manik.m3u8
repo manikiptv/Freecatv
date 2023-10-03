@@ -71,8 +71,8 @@ http://xtv.ooo:8080/493121299/992121394/238490
 http://xtv.ooo:8080/493121299/992121394/238491
 #EXTINF:-1,স্টার স্পোর্টস 
 http://bdtv.globalflix.net:2020/live/starsports1.stream/playlist.m3u8
-#EXTINF:-1,Temporary
-
+#EXTINF:-1,Temporary সনি লাইভ
+https://dai.google.com/linear/hls/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
 #EXTINF:-1,Temporary
 
 #EXTINF:-1,Temporary

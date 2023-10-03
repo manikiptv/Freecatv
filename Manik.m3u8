@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,STAR SPORTS HINDI
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/LppGOrbp7IHW4ofzLs2gNP6Qhk0ZJpp1KC5utnLL1uSESphNkqf40qJRkn6TPxVYs5rW43ANq7eyhGxGvt-2GA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1,Star sports TAMIL 
 http://line.qee-ott.com:80/play/live.php?mac=00:1a:79:50:25:07&stream=155873&extension=m3u8&play_token=xXqUJM6NqI
 #EXTINF:-1,Star sports HINDI 

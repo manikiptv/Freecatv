@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1,Sky sports cricket 
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104668&extension=m3u8
+#EXTINF:-1,Star sports HINDI 
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104672&extension=m3u8
+#EXTINF:-1,Fox cricket 501
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104678&extension=m3u8
+#EXTINF:-1,Sports 18
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104676&extension=m3u8
+#EXTINF:-1,Willow cricket 
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104677&extension=m3u8
+#EXTINF:-1,Willow cricket extra 
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1142110&extension=m3u8
+#EXTINF:-1,Astro cricket 
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104670&extension=m3u8
 #EXTINF:-1,World Cup 2023 Star Sports 1 HD
 http://opplextv.cyou:8080/live/33344455/33344455/167587.ts
 #EXTINF:-1,PTV SPORTS HD

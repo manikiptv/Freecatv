@@ -1,9 +1,26 @@
 #EXTM3U
+<<<<<<< HEAD
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,
+=======
+#EXTINF:-1,Coupe AFC
+Al Kuwait (Kuw) vs Al Wehdat (Jor) 1
+https://dmitwlvvll.cdn.mangomolo.com:443/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Coupe AFC
+Al Kuwait (Kuw) vs Al Wehdat (Jor) 2
+https://dmitwlvvll.cdn.mangomolo.com:443/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,Coupe AFC
+Al Kuwait (Kuw) vs Al Wehdat (Jor) 3
+https://dmitwlvvll.cdn.mangomolo.com:443/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8
+#EXTINF:-1,সনি লাইভ
+https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
+#EXTINF:-1, Asia game 
+https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
+#EXTINF:-1,
+>>>>>>> 8360989bb7a18253a1a73170dadb6d89e87ca5e8
 
 #EXTINF:-1 ,
 

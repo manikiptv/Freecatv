@@ -13,8 +13,6 @@ http://line.qee-ott.com:80/play/live.php?mac=00:1a:79:50:25:07&stream=155873&ext
 http://line.qee-ott.com:80/play/live.php?mac=00:1a:79:50:25:07&stream=155967&extension=m3u8&play_token=jKrdbpzEGE
 #EXTINF:-1 ,Star sports HINDI
 http://line.qee-ott.com:80/play/live.php?mac=00:1a:79:50:25:07&stream=282674&extension=m3u8&play_token=xXqUJM6NqI
-#EXTINF:-1 ,Star sports 1
-http://line.qee-ott.com:80/play/live.php?mac=00:1a:79:50:25:07&stream=155968&extension=m3u8&play_token=xXqUJM6NqI
 #EXTINF:-1 ,Astro cricket
 http://line.qee-ott.com:80/play/live.php?mac=00:1a:79:50:25:07&stream=315181&extension=m3u8&play_token=xXqUJM6NqI
 #EXTINF:-1 ,GAZI TV
@@ -37,55 +35,3 @@ http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104670&extensi
 http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
 #EXTINF:-1 ,SONY LIV
 https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
-#EXTINF:-1 ,Skysports_3_NZ
-http://xtv.ooo:8080/493121299/992121394/233180
-#EXTINF:-1 ,Skysports_5_NZ
-http://xtv.ooo:8080/493121299/992121394/233182
-#EXTINF:-1 ,Skysports_6_NZ
-http://xtv.ooo:8080/493121299/992121394/233183
-#EXTINF:-1 ,SS_GRANDSTAND
-http://xtv.ooo:8080/493121299/992121394/238476
-#EXTINF:-1 ,SS_PSL
-http://xtv.ooo:8080/493121299/992121394/238477
-#EXTINF:-1 ,SS_PREMIER_LEAGUE
-http://xtv.ooo:8080/493121299/992121394/238478
-#EXTINF:-1 ,SS_LALIGA
-http://xtv.ooo:8080/493121299/992121394/238479
-#EXTINF:-1 ,SS_FOOTBALL
-http://xtv.ooo:8080/493121299/992121394/238480
-#EXTINF:-1 ,SS_VARIETY_4
-http://xtv.ooo:8080/493121299/992121394/238484
-#EXTINF:-1 ,SS_MAXIMO_1
-http://xtv.ooo:8080/493121299/992121394/238485
-#EXTINF:-1 ,SS_RUGBY
-http://xtv.ooo:8080/493121299/992121394/238486
-#EXTINF:-1 ,SS_BLITZ
-http://xtv.ooo:8080/493121299/992121394/238487
-#EXTINF:-1 ,SS_TENNIS
-http://xtv.ooo:8080/493121299/992121394/238489
-#EXTINF:-1 ,SS_MOTORSPORT
-http://xtv.ooo:8080/493121299/992121394/238490
-#EXTINF:-1 ,SS_ESPN_1
-http://xtv.ooo:8080/493121299/992121394/238491
-#EXTINF:-1 ,Bangladesh  vs Malaysia
-https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
-#EXTINF:-1 ,T Sports 
-http://opplextv.cyou:8080/live/33344455/33344455/167590.m3u8
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,

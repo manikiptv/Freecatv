@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
 #EXTINF:-1 ,FOX Cricket 501 ICC
 https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/-JMqbxIqEAwDZyrgQjJmAHmYRgBivwNUP30WjcbBBs7sUsSe8pj0s1TGZtxt94X8W87RWPIYeAFca3faBvOGXg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 ,FOX Cricket 501
@@ -7,18 +23,9 @@ https://gfduenkie.site/chunklist/hlsch23.m3u8
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 ,সনি লাইভ
 https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
-#EXTINF:-1 ,Asia game
-https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
-#EXTINF:-1 ,Star sports TAMIL
-http://line.qee-ott.com:80/play/live.php?mac=00:1a:79:50:25:07&stream=155873&extension=m3u8&play_token=xXqUJM6NqI
-#EXTINF:-1 ,Star sports HINDI
-http://line.qee-ott.com:80/play/live.php?mac=00:1a:79:50:25:07&stream=155967&extension=m3u8&play_token=jKrdbpzEGE
-#EXTINF:-1 ,Star sports HINDI
-http://line.qee-ott.com:80/play/live.php?mac=00:1a:79:50:25:07&stream=282674&extension=m3u8&play_token=xXqUJM6NqI
-#EXTINF:-1 ,Astro cricket
-http://line.qee-ott.com:80/play/live.php?mac=00:1a:79:50:25:07&stream=315181&extension=m3u8&play_token=xXqUJM6NqI
-#EXTINF:-1 ,GAZI TV
-http://line.qee-ott.com:80/play/live.php?mac=00:1a:79:50:25:07&stream=165524&extension=m3u8&play_token=xXqUJM6NqI
+#EXTINF:-1 ,
+
+
 #EXTINF:-1 ,Sky sports cricket
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:18:44:83&stream=1104668&extension=m3u8
 #EXTINF:-1 ,Star sports HINDI

@@ -77,11 +77,11 @@ http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:6E:26:8C
 http://176.119.29.52/live.ts?channelId=275&deviceMac=00:1A:79:6E:26:8C
 #EXTINF:-1 ,Star sports tu
 http://176.119.29.52/live.ts?channelId=288&deviceMac=00:1A:79:6E:26:8C
-#EXTINF:-1 ,ptv sports 
+#EXTINF:-1 ,ptv sports ICC would cup 
 http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
-#EXTINF:-1 , Sky sports naz
+#EXTINF:-1 , Sky sports naz ICC would cup 
 https://donelfantastic.github.io/live/ssportsNZ.m3u8
-#EXTINF:-1 , T Sports BD 
+#EXTINF:-1 , T Sports BD ICC would cup 
 http://live.himel-himu.tk/TSports-Worldwide/hls/Himel-Op.m3u8
 #EXTINF:-1 ,
 

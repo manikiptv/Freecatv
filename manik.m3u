@@ -81,8 +81,8 @@ http://176.119.29.52/live.ts?channelId=288&deviceMac=00:1A:79:6E:26:8C
 http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
 #EXTINF:-1 , Sky sports naz
 https://donelfantastic.github.io/live/ssportsNZ.m3u8
-#EXTINF:-1 ,
-
+#EXTINF:-1 , T Sports BD 
+http://live.himel-himu.tk/TSports-Worldwide/hls/Himel-Op.m3u8
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,

@@ -5,8 +5,8 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 https://work.312work312.pro/live/n-5/chunks.m3u8
 #EXTINF:-1 ,Gazi TV ICC 
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,
-
+#EXTINF:-1 ,Star sports 1 HD
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,

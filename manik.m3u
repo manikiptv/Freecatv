@@ -19,8 +19,8 @@ http://103.180.112.66:8080/starsports1/index.m3u8
 http://103.180.112.66:8080/gazitv/index.m3u8
 #EXTINF:-1 , BD ICC Would T Sports 
 http://103.180.112.66:8080/tsports/index.m3u8
-#EXTINF:-1 ,
-
+#EXTINF:-1 ,OWL Sports ICC Would cup 
+http://185.221.219.222/PAKvSL/HD1/index.m3u8
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,

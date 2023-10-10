@@ -8,8 +8,8 @@ http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8?key=Himel-Himu
 #EXTINF:-1 , ICC Would cup 2023
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 ,
-
+#EXTINF:-1 , ICC Would cup 2023 (2)
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,

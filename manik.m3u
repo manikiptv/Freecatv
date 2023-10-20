@@ -17,10 +17,10 @@
 
 #EXTINF:-1 ,
 
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
+#EXTINF:-1 ,Star Sports 
+http://103.114.38.150:1935/live/starsports1.stream/chunklist.m3u8
+#EXTINF:-1 , Star Sports 
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 #EXTINF:-1 , GAZI TV 
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , BDIX Star Sports 1 HD 

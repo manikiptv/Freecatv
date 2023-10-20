@@ -17,32 +17,58 @@
 
 #EXTINF:-1 ,
 
-#EXTINF:-1 ,Star Sports 
-http://103.114.38.150:1935/live/starsports1.stream/chunklist.m3u8
-#EXTINF:-1 , Star Sports 
+
+#EXTINF:-1 ,Star Sports
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 , GAZI TV 
+#EXTINF:-1 ,GAZI TV
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , BDIX Star Sports 1 HD 
-http://103.114.38.150:1935/live/starsports1.stream/chunklist.m3u8
-#EXTINF:-1 ,Star sports 1 HD 
+#EXTINF:-1 ,Star sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 , Sky sports NZ
-https://donelfantastic.github.io/live/ssportsNZ.m3u8
-#EXTINF:-1 , Star sports 
+#EXTINF:-1 ,Star sports
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 , Astro cricket 
-http://37.49.225.135:8070/live/Miglior/rk8mEWJQMwyDZ9bYU35uPt/157565.m3u8?token=ShUNAEFcElxEWldXDQBXUFUCUwlRBgFfBVVWBgFbVVdQAVJXBgNRA1IaGEZKTREDAFhpWAUVDwgDBlZUAk5DFkJSFz5bUBJcRAsBUg0NV0RNF0JYDFIXAwYdQRJeBkNZEwVWVgECEkpEXUwQXEsNBw1qUlQXXlZcFAsNF1sOTUFeWToFV1lRCAIaDkYJG09ECEZGE1tZQFVaHUEAXhYTAkVSR1sQBQVfVRoYRlpWFggVR08TWxV7dRQdQQdPFgQNQl4KDxAOEgtVTQxGFRsKFT5HU0IVRVBYW1QRQA1AUEEdFQgASmtTCQhWUQdNUAwIEhcME1kHBRsaEw4NWQsVDENoFQhWFgpEVAoEUgsbHg==
-#EXTINF:-1 ,Star sports 1 HD 
-http://103.114.38.150:1935/live/starsports1.stream/chunklist.m3u8
-#EXTINF:-1 ,
 #EXTINF:-1 ,T Sports BD
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 ,T Sports BD ICC Would
 http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ICC Would cup 2023
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 ,ICC Would cup 2023 (2)
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 ,Gazi TV ICC would cup
 http://103.7.4.54/Gazi-TV/index.m3u8?token=7du8JE0_2OUbF0
+#EXTINF:-1 ,ky Sports Cricket
+https://nayem.sananda.online/Super/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 ,TLT** Sports > 1
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:-1 ,gazi
+http://chanel.dekhaott.com/Gazi-TV/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 ,Willow Cricket HD
+http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 ,Astro 🇲🇾 Cricket HD
+http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+#EXTINF:-1 ,ICC TV Add free Channel
+https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto.m3u8
+#EXTINF:-1 ,T Sports HD Akash DTH
+http://live.himel-himu.tk/TSports-HD-Bdix/hls/Himel-Op.m3u8
+#EXTINF:-1 ,Gazi TV 2
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
+#EXTINF:-1 ,Willow Extra TV
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
+#EXTINF:-1 ,Hoster Live 1
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1 ,sp1
+https://sportsleading.online/live/stream_e1_abr.m3u8
+#EXTINF:-1 ,sp2
+https://sportsleading.online/live/stream_e3.m3u8
+#EXTINF:-1 ,Ten Sports HD
+https://isp.sananda.online/Tensorts/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Astro Cricket 1
+https://isp.sananda.online/Astro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Sports 1 HD 🇮🇳 Ssananda TV
+https://isp.sananda.online/Star/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Saudi Pro League Live Match
+https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:-1 ,BEIN Sports 1
+https://stream.ayas.ir/hls2/bein1.m3u8
+#EXTINF:-1 ,BEIN Sports 2
+https://stream.ayas.ir/hls2/bein2.m3u8
+#EXTINF:-1 ,BEIN Sports 3
+https://stream.ayas.ir/hls2/bein3.m3u8
+#EXTINF:-1 ,BEIN Sports 4
+https://stream.ayas.ir/hls2/bein4.m3u8

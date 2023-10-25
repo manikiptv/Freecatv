@@ -19,8 +19,8 @@
 
 #EXTINF:-1 ,
 
-#EXTINF:-1 ,
-
+#EXTINF:-1 ,Ten Sports ICC
+http://103.180.112.66:8088/tensports/index.m3u8
 #EXTINF:-1 , BDIX GAZI TV 
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Astero cricket

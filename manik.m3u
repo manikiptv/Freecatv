@@ -23,20 +23,4 @@
 
 #EXTINF:-1 ,
 
-#EXTINF:-1 ,ten sports HD BPL 
-http://176.119.29.52/live/00:1A:79:92:98:E5/SN_1697176356/301.m3u8
 #EXTINF:-1 ,
-#EXTINF:-1 , live Sports 
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/5jSuuDr-EtMcfExP-ihQUaPpc1LK6SdV8wTPNh6P04LEC0uBOegbA8FcQFuPk8wQhpuJNui35UCKaLMRfWoahw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 ,Star Sports 1
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 ,PTV sports
-http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1 ,Star Sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-#EXTINF:-1 ,Star sports
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 ,Willow Cricket HD
-http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 ,Astro 🇲🇾 Cricket HD
-http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
